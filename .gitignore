@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyt
+*.pym
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Pygame assets (if you want, optional: usually safe to track)
+# assets/images/
+# assets/sounds/
+
+# Byte-compiled / distribution / packaging
+*.egg-info/
+dist/
+build/
+.eggs/
